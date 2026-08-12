@@ -1,0 +1,1 @@
+# some notes from older notebooks (at least what is worth preserving)
