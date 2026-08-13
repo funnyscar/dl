@@ -1,0 +1,8 @@
+name: eecs189
+dependencies:
+  - numpy
+  - matplotlib
+  - tqdm
+  - pytorch
+  - torchvision
+  - pandas
