@@ -1,2 +1,2 @@
 # dl
-deep learning research
+deep learning research, focused on new research
